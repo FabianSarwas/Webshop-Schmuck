@@ -1,0 +1,2 @@
+# Webshop-Schmuck
+Team Project
